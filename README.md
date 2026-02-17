@@ -23,3 +23,12 @@ Detect double-booking of pilots or drones
 Warn about skill or certification mismatches
 Alert for equipment-location mismatches
 Weather risk and budget overrun warnings
+PROJECT STRUCTURE 
+SkylarkDroneAI/
+│
+├─ app.py   
+├─ assignment.py            
+├─ conflicts.py              
+├─ reassignment.py          
+├─ sheets.py                           
+└─ README.md               
